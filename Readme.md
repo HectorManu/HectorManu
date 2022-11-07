@@ -18,6 +18,7 @@ Welcome to my profile! I'm a student as well as a data science enthusiast, I lik
 
 <br />
 <br />
+<br />
 
 - 🔭 I’m currently an advisor to the AAAIMX <img src="https://www.aaaimx.org/img/sprites/aaaimx-transparent.png" width="30"> (*Association for the Advancement of Artificial Intelligence Mexico*)
 - 🌱 I’m currently learning Data Science | Full Stack Web development
