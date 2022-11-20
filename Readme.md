@@ -28,7 +28,7 @@ Welcome to my profile! I'm a student as well as a data science enthusiast, I lik
 - 💼 I'm pursuing a Bachelor of Computer Systems Engineering
 - 🤔 My interests are data science, machine learning as well as software development
 - 💬 Ask me about anything. I will try to help you as much as I can
-- 📝 See my <a target="_blank" href="https://drive.google.com/file/d/1zFW2aex_hxdBDkfNVUDDp-abtI1jdynY/view?usp=share_link" target="_blank">Curriculum Vitae</a> to get more info.
+- 📝 See my <a  href="https://drive.google.com/file/d/1zFW2aex_hxdBDkfNVUDDp-abtI1jdynY/view?usp=share_link" target="_blank">Curriculum Vitae</a> to get more info.
 
 
 **Languages and Tools:**  
