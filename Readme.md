@@ -53,6 +53,6 @@ Welcome to my profile! I'm a student as well as a data science enthusiast, I lik
 
 ### Activity Trends
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hectormanu&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hectormanu&hide_border=true)
 
 **Page Views**(Counting since 01 October 2022): ![Visitor Count](https://profile-counter.glitch.me/hectormanu/count.svg)
