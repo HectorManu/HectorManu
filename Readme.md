@@ -1,7 +1,7 @@
 
 
 
-**Languages and Tools:**  
+
 <h1 align="center">Hi 👋, I'm Héctor Manuel Ruiz Juárez</h1>
 <h3 align="center">Welcome to my profile! I'm a student as well as a data science enthusiast, I like software development because it's great for turning ideas into code.</h3>
 
