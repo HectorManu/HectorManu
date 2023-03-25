@@ -1,9 +1,9 @@
-### Hi there 👋
-
-Welcome to my profile! I'm a student as well as a data science enthusiast, I like software development because it's great for turning ideas into code.
 
 
 
+**Languages and Tools:**  
+<h1 align="center">Hi 👋, I'm Héctor Manuel Ruiz Juárez</h1>
+<h3 align="center">Welcome to my profile! I'm a student as well as a data science enthusiast, I like software development because it's great for turning ideas into code.</h3>
 
 <a href="https://www.linkedin.com/in/hector-manu/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
@@ -29,11 +29,6 @@ Welcome to my profile! I'm a student as well as a data science enthusiast, I lik
 - 🤔 My interests are data science, machine learning as well as software development
 - 💬 Ask me about anything. I will try to help you as much as I can
 - 📝 See my <a href="https://drive.google.com/file/d/1zFW2aex_hxdBDkfNVUDDp-abtI1jdynY/view?usp=share_link">Curriculum Vitae</a> to get more info.
-
-
-**Languages and Tools:**  
-<h1 align="center">Hi 👋, I'm Héctor Manuel Ruiz Juárez</h1>
-<h3 align="center">Welcome to my profile! I'm a student as well as a data science enthusiast, I like software development because it's great for turning ideas into code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectormanu&label=Profile%20views&color=0e75b6&style=flat" alt="hectormanu" /> </p>
 
