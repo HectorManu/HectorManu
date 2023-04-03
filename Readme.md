@@ -22,7 +22,7 @@
 <br />
 <br />
 
-- 🔭 I’m currently an advisor to the AAAIMX <img src="https://www.aaaimx.org/img/sprites/aaaimx-transparent.png" width="30"> (*Association for the Advancement of Artificial Intelligence Mexico*)
+- 🔭 I’m currently an member to the AAAIMX <img src="https://www.aaaimx.org/img/sprites/aaaimx-transparent.png" width="30"> (*Association for the Advancement of Artificial Intelligence Mexico*)
 - 🌱 I’m currently learning Data Science | Full Stack Web development
 - 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💼 I'm pursuing a Bachelor of Computer Systems Engineering
