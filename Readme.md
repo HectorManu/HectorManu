@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/hector-manu/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-<a href="https://www.kaggle.com/hctormanuelruizjurez">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />
-</a>
 <a href="https://www.instagram.com/hectorruizjuarez/">
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://i0.wp.com/eltallerdehector.com/wp-content/uploads/2022/06/cd939-logo-instagram-png.png?fit=512%2C512&ssl=1" />
 </a>
