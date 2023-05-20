@@ -26,7 +26,7 @@
 - 💼 I'm pursuing a Bachelor of Computer Systems Engineering
 - 🤔 My interests are data science, machine learning as well as software development
 - 💬 Ask me about anything. I will try to help you as much as I can
-- 📝 See my <a href="https://drive.google.com/file/d/1rQuO1G9xr-WbjkCnYAAff03Xe5EMX72a/view?usp=sharing">Curriculum Vitae</a> to get more info.
+- 📝 See my <a href="[https://drive.google.com/file/d/1rQuO1G9xr-WbjkCnYAAff03Xe5EMX72a/view?usp=sharing](https://drive.google.com/file/d/1F-RD0SUMei9hW783F9Lm5XnP3Krl7hUS/view?usp=sharing)">Curriculum Vitae</a> to get more info.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectormanu&label=Profile%20views&color=0e75b6&style=flat" alt="hectormanu" /> </p>
 
