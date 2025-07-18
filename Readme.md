@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Héctor Manuel Ruiz Juárez</h1>
-<h3 align="center">IA Automation Lead at Tech_MX | Data Science & Software Development Enthusiast</h3>
+<h3 align="center">IA Automation Lead at Solvo| Data Science & Software Development</h3>
 
 <a href="https://www.linkedin.com/in/hector-manu/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
@@ -20,7 +20,7 @@
 - 🤝 Open to collaborating on AI, Automation, and Web Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎓 Bachelor’s in Computer Systems Engineering
 - 💡 Passionate about problem-solving with data, automation, and scalable software
-- 📄 Check out my <a href="https://drive.google.com/file/d/1F-RD0SUMei9hW783F9Lm5XnP3Krl7hUS/view?usp=sharing">Curriculum Vitae</a>
+- 📄 Check out my <a href="https://drive.google.com/file/d/1ifzZ0NVufzulszQXkPg9x8hnzaPIFflB/view?usp=sharing">Curriculum Vitae</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectormanu&label=Profile%20views&color=0e75b6&style=flat" alt="hectormanu" /> </p>
 
