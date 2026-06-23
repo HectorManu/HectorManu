@@ -8,13 +8,13 @@
   <img align="left" alt="Instagram" width="22px" src="https://i0.wp.com/eltallerdehector.com/wp-content/uploads/2022/06/cd939-logo-instagram-png.png?fit=512%2C512&ssl=1" />
 </a>
 <a href="https://www.facebook.com/Hector.MRj">
-  <img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png" />
+  <img align="left" alt="Facebook" width="22px" src="https://i.pinimg.com/474x/7c/ce/18/7cce18497a47d39a920a34aea06766ac.jpg" />
 </a>
 
 <br />
 <br />
 
-- 🚀 Currently working as **IA Automation Lead** at **Tech_MX**
+- 🚀 Currently working as **IA Automation Lead** at **Solvo Global**
 - 🔬 Member of **AAAI Mexico** <img src="https://www.aaaimx.org/img/sprites/aaaimx-transparent.png" width="30">
 - 📚 Learning and growing in **Data Science**, **Full Stack Development**, and **Machine Learning**
 - 🤝 Open to collaborating on AI, Automation, and Web Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
