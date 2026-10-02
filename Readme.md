@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Héctor Manuel Ruiz Juárez</h1>
-<h3 align="center">IA Automation Lead at Solvo| Data Science & Software Development</h3>
+<h3 align="center">IA Automation Lead at Banorte| Data Science & Software Development</h3>
 
 <a href="https://www.linkedin.com/in/hector-manu/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
@@ -14,7 +14,7 @@
 <br />
 <br />
 
-- 🚀 Currently working as **IA Automation Lead** at **Solvo Global**
+- 🚀 Currently working as **IA Automation Lead** at **Banorte**
 - 🔬 Member of **AAAI Mexico** <img src="https://www.aaaimx.org/img/sprites/aaaimx-transparent.png" width="30">
 - 📚 Learning and growing in **Data Science**, **Full Stack Development**, and **Machine Learning**
 - 🤝 Open to collaborating on AI, Automation, and Web Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
