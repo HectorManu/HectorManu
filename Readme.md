@@ -15,7 +15,7 @@
 <br />
 
 - 🚀 Currently working as **IA Automation Lead** at **Banorte**
-- 🔬 Member of **AAAI Mexico** <img src="https://www.aaaimx.org/img/sprites/aaaimx-transparent.png" width="30">
+- 🔬 Member of **AAAI Mexico** <img src="https://www.aaaimx.org/aaaimx-logo.png" width="30">
 - 📚 Learning and growing in **Data Science**, **Full Stack Development**, and **Machine Learning**
 - 🤝 Open to collaborating on AI, Automation, and Web Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎓 Bachelor’s in Computer Systems Engineering
